@@ -15,12 +15,16 @@ Take control of your tasks and boost your productivity with our simple yet power
 1. **Sign Up/Log In:** Create an account or log in using your existing credentials.
 2. **Create Tasks:** Add tasks by simply filling in the details - title, description.
 3. **Access Anywhere:** Enjoy the flexibility of accessing your to-do list from anywhere, anytime.
-5. **Track Progress:** Monitor task status, updates, and completion directly within GitHub's interface.
+5. **Track Progress:** Monitor task status, updates, and completion directly.
 
 ## Getting Started
 
 To start using GitHub To-Do List:
-- Clone the repository.
+1. Clone this repository to your local machine.
+2. bash
+3. Copy code
+4. git clone https://github.com/dilip-kashyp/To-Do-List.git
+5. Open the index.html file in your web browser.
 
 
 ## Contributing
